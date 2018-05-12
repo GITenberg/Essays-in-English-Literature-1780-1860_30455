@@ -1,0 +1,33 @@
+_repo: Essays-in-English-Literature-1780-1860_30455
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Saintsbury, George
+    alias: Saintsbury, George Edward Bateman
+    birthdate: 1845
+    deathdate: 1933
+    gutenberg_agent_id: '4608'
+    url: http://www.gutenberg.org/2009/agents/4608
+    wikipedia: http://en.wikipedia.org/wiki/George_Saintsbury
+description: ''
+gutenberg_issued: '2009-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30455'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature -- 19th century -- History and criticism'
+- !lcsh 'English literature -- 18th century -- History and criticism'
+- !lcc 'PR'
+tableOfContents: 'The kinds of criticism -- I. Crabbe -- II. Hogg -- III. Sydney Smith
+  -- IV. Jeffrey -- V. Hazlitt -- VI. Moore -- VII. Leigh Hunt -- VIII. Peacock --
+  IX. Wilson -- X. De Quincey -- XI. Lockhart -- XII. Praed -- XIII. Borrow -- Appendix:
+  A. De Quincey. B. Lockhart.'
+title: Essays in English Literature, 1780-1860
+url: http://www.gutenberg.org/ebooks/30455
